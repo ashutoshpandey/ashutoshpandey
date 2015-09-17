@@ -494,10 +494,8 @@ sub {
   top: .5ex;
 }
 hr {
-  border: 0;
   clear: both;
-  height: 1px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 var,
 tt,
@@ -511,6 +509,7 @@ code {
 img {
   max-width: 100%;
   height: auto;
+  margin: 20px 0;
 }
 .clearfix:before,
 .clearfix:after {
@@ -1127,7 +1126,7 @@ body {
 .post-template .post-content p {
   font-size: 14px;
   line-height: 2;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .post-template .post-content h1 {
   font-size: 44px;
@@ -1782,7 +1781,6 @@ body {
 }
 .sidebar-right-section .widget {
   width: 100%;
-  padding: 0 0 10px;
   margin-bottom: 30px;
   border-top: 0;
   -moz-box-sizing: border-box;
@@ -1855,9 +1853,9 @@ body {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 98%;
+  width: 100%;
   margin: 0 auto;
-  padding-top: 15px;
+  padding: 0 !important;
 }
 .sidebar-right-section .widget_search input {
   -webkit-box-sizing: border-box;
