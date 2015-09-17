@@ -6,23 +6,6 @@
  */
 ?>
 <?php get_header() ?>
-<div class="archive-meta-container">
-    <div class="archive-head">
-        <h1><?php _e('Category Archives', 'decent') ?></h1>
-    </div>
-    <div class="archive-description">
-        <?php
-        $decent_category_description = term_description();
-        if (!empty($decent_category_description)) {
-            echo '<span>' . $decent_category_description . '</span>';
-        } else {
-            printf(__('Archive of posts published in the category:', 'decent') . ' %s', single_cat_title('', false));
-        }
-        ?>
-    </div>
-
-</div><!-- Archive Meta Container ends -->
-
 
 <div id="content-section" class="content-section grid-col-16">
     <div class="inner-content-section">
