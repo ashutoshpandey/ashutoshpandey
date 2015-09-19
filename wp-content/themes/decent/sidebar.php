@@ -5,7 +5,7 @@
  * @package Decent
  */
 ?>
-
+<!--
 <div id="sidebar-right-section" class="sidebar-right-section grid-float-left">
     
     <?php if ( !dynamic_sidebar( 'right_sidebar' ) ): ?>
@@ -22,3 +22,4 @@
 
     <?php endif ?>
 </div>
+-->
