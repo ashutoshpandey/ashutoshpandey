@@ -2834,3 +2834,7 @@ body #scrollUp:hover {
 }
 .sticky{}
 .bypostauthor{}
+
+.line-gap li{
+  margin-bottom: 20px;
+}
