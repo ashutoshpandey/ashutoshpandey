@@ -2838,3 +2838,6 @@ body #scrollUp:hover {
 .line-gap li{
   margin-bottom: 20px;
 }
+code{
+  background: #fff !important;
+}

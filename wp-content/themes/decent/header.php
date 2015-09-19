@@ -4,6 +4,8 @@
  * 
  * @package Decent
  */
+
+    $root = get_home_url() . '/';
 ?>
 <!DOCTYPE html >
 <!--[if IE 6]>
@@ -43,7 +45,13 @@
 
             <div id="nav-section" class="nav-section grid-col-15 clearfix">
                 <div id="primarymenu-resp" class="primarymenu-resp"><i class="mdf mdf-bars"></i><span>Menu</span></div>
-                <div id="primarymenu-section" class="primarymenu-section nav"><?php decent_nav() ?></div>
+                <div id="primarymenu-section" class="primarymenu-section nav">
+                    <?php// decent_nav() ?>
+                    <ul class="sf-menu sf-js-enabled" id="decent_menu">
+                        <li class="page_item"><a href="<?php echo $root;?>">About Me</a></li>
+                        <li class="page_item"><a href="<?php echo $root;?>category/java">Java</a></li>
+                    </ul>
+                </div>
             </div>
                         
             <div id="main-section" class="main-section grid-col-16 clearfix">
