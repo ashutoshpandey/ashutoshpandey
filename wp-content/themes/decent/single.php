@@ -46,7 +46,7 @@
                         <p class="tags-below-content"><?php the_tags( __( 'Tags: ', 'decent' ) , ', ', '') ?></p>
                     </div>
 
-                    <?php decent_post_nav() ?>
+                    <?php // decent_post_nav() ?>
 
                     <?php comments_template( '', true ) ?>
 
