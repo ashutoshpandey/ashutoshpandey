@@ -469,9 +469,8 @@ blockquote cite {
 pre {
   font-size: 15px;
   line-height: 21px;
-  margin: 0 0 25px 0;
-  padding: 1.5em;
   overflow: auto;
+  background: #fff !important;
 }
 abbr,
 acronym,
