@@ -467,10 +467,12 @@ blockquote cite {
   letter-spacing: 1px;
 }
 pre {
-  font-size: 15px;
+  font-size: 13px;
   line-height: 21px;
   overflow: auto;
-  background: #fff !important;
+  background: #eee !important;
+  padding: 10px;
+  margin: 10px 0;
 }
 abbr,
 acronym,
