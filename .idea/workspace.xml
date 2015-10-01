@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b73abb5-ff76-4295-9855-838a9c26747f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/decent/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/decent/header.php" />
+      <change type="DELETED" beforePath="C:\xampp5.6\htdocs\wordpress\wp-content\plugins\hello.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/strict.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/views/strict.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/decent/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/decent/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" />
     </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,14 +44,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/header.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8832952">
-              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-              <folding>
-                <element signature="e#6#70#0#PHP" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.7159221">
+              <caret line="2836" column="13" selection-start-line="2836" selection-start-column="13" selection-end-line="2836" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,8 +71,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/decent/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/decent/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/decent/sidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/decent/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/decent/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/decent/style.css" />
       </list>
     </option>
   </component>
@@ -98,6 +116,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -173,12 +192,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magentostore" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -227,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -266,6 +285,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -333,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48855835">
           <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,20 +376,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60366553">
-          <caret line="1075" column="20" selection-start-line="1075" selection-start-column="20" selection-end-line="1075" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.8443936">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/decent/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8832952">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-          <folding>
-            <element signature="e#6#70#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.7159221">
+          <caret line="2836" column="13" selection-start-line="2836" selection-start-column="13" selection-end-line="2836" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
