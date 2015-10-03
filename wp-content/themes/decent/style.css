@@ -477,6 +477,7 @@ pre {
   border-radius: 5px;
   word-break: break-all;
   word-wrap: break-word;
+  margin: 20px 0;
 }
 abbr,
 acronym,
@@ -851,9 +852,6 @@ body {
   z-index: 101;
   vertical-align: bottom;
 }
-.header-bg-section {
-  padding: 30px 0 60px;
-}
 .header-section {
   overflow: visible;
 }
@@ -865,15 +863,27 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .site-description {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
-  padding: 3px 0 0 5px;
+  padding: 10px 0 0 5px;
   clear: left;
 }
 .logo-section {
   position: relative;
   z-index: 100;
+  width:60%;
+  margin-top:50px;
 }
+#my-image{
+  float: right;
+  width: 150px;
+}
+#my-image img{
+  width:100%;
+  height: auto;
+  border-radius: 50%;
+}
+
 .site-title,
 .site-description {
   float: left;
@@ -2842,7 +2852,7 @@ body #scrollUp:hover {
 
 .line-gap li{
   margin-bottom: 20px;
-  line-height: 20px;
+  line-height: 30px;
 }
 code{
   background: #fff !important;

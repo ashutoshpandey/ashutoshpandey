@@ -38,6 +38,7 @@
             <div class="header-bg-section clearfix">
                 <div id="header-section" class="header-section grid-col-16 clearfix">
                     <div id="logo-section" class="logo-section grid-col-16 grid-float-left clearfix"><?php decent_logo() ?></div>
+                    <div id="my-image"><img src="<?php echo get_bloginfo('template_directory');?>/images/ashutosh-pandey.jpg"/></div>
                     <?php // get_sidebar('top') ?>
                 </div><!-- header section ends -->
             </div><!-- header bg section ends -->
