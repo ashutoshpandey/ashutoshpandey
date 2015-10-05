@@ -2857,3 +2857,8 @@ body #scrollUp:hover {
 code{
   background: #fff !important;
 }
+
+/********* sharify icons ********/
+.sharify-btn-twitter a, .sharify-btn-facebook a, .sharify-btn-gplus a{
+  color: #fff !important;
+}
