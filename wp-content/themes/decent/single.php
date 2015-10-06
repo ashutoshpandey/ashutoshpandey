@@ -21,12 +21,9 @@
                         
                         <div class="post-meta">
                             <?php 
-                            printf( '%1$s<span class="meta-author-url">, ' . __( 'By', 'decent' ) . ' %2$s </span>',
+                            printf( '%1$s',
                                 sprintf( '<span class="entry-date">%1$s</span>',
                                 get_the_date()
-                            ),
-                            sprintf( '<span class="author vcard">%1$s</span>',
-                                get_the_author()
                             )) ?>
                             <?php if(comments_open()) {
                                 echo '<span class="post-meta-comments">';                                    
