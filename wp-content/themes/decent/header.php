@@ -51,7 +51,8 @@
                     <ul class="sf-menu sf-js-enabled" id="decent_menu">
                         <li class="page_item"><a href="<?php echo $root;?>">About Me</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/java">Java</a></li>
-                        <li class="page_item"><a href="<?php echo $root;?>category/ruby-rails">Ruby & Rails</a></li>
+                        <li class="page_item"><a href="<?php echo $root;?>category/ruby">Ruby</a></li>
+                        <li class="page_item"><a href="<?php echo $root;?>category/ruby-rails">Ruby on Rails</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/ruby-rails/spree-commerce">Spree Commerce</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/php">PHP</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/php/magento">Magento</a></li>
