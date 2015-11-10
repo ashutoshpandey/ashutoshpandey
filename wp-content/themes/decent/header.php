@@ -56,6 +56,7 @@
                         <li class="page_item"><a href="<?php echo $root;?>category/django">Django</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/php">PHP</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/php/magento">Magento</a></li>
+                        <li class="page_item"><a href="<?php echo $root;?>category/asp-dot-net-mvc">ASP.NET</a></li>
                     </ul>
                 </div>
             </div>
