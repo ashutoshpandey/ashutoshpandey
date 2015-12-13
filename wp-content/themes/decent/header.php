@@ -55,7 +55,8 @@
                         <li class="page_item"><a href="<?php echo $root;?>category/ruby-rails/spree-commerce">Spree Commerce</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/django">Django</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/php">PHP</a></li>
-                        <li class="page_item"><a href="<?php echo $root;?>category/php/magento">Magento</a></li>
+                        <li class="page_item"><a href="<?php echo $root;?>category/php/magento">Magento 1.x</a></li>
+						<li class="page_item"><a href="<?php echo $root;?>category/php/magento-2">Magento 2.x</a></li>
                         <li class="page_item"><a href="<?php echo $root;?>category/asp-dot-net-mvc">ASP.NET</a></li>
                     </ul>
                 </div>
